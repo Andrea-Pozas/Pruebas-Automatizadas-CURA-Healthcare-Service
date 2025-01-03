@@ -1,0 +1,3 @@
+# Ignorar __pycache__ y venv dentro de pythonProject
+pythonProject/__pycache__/
+pythonProject/venv/
